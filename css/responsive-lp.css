@@ -1,0 +1,263 @@
+.banner-desktop-emergencia {
+	min-height: 480px;
+	background:
+	url(http://telehelp.com.br/wp-content/uploads/2016/05/background-Banner-Home-botao-de-emergencia_02.jpg) center center no-repeat,
+	url(http://telehelp.com.br/wp-content/uploads/2016/05/Banner-home-landing-page-botao-de-emergencia_02.png) center center no-repeat;
+}
+
+.slick-slide {height: auto;}
+
+.slick-slider .slick-track, .slick-slider .slick-list `{
+	height: auto;
+}
+
+.slick-slider .slick-track, .slick-slider .slick-list {
+	height: auto;
+}
+
+.slick-slide img {
+    display: block;
+    margin: 0 auto;
+}
+
+.video {
+	width: 100%;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    position: absolute;
+}
+
+@media (min-width: 769px)  {
+	.container-slider-mobile {
+		display: none!important;
+	}
+}
+
+@media (max-width: 768px) {
+	#contatobannermeiomeio {
+		height: auto;
+		position: static;
+		padding: 30px;
+		box-sizing: border-box;
+	}
+
+	#div_ban_success {
+		display: none;
+	}
+
+	#contatobanner {
+		height: auto;
+	}
+
+	#slideshow {
+		height: auto;
+    	border: none;
+	}
+	#faixatopo {
+		background-color: #f2f2f2;
+	}
+	#telefoneeareadoclientelp {
+		width: 100%;
+	}
+	#telefoneeareadoclientelp li.phone2 {
+		border: none;
+		width: 100%;
+		text-align: center;
+		display: block;
+		color: #838383;
+	}
+	#contatobannermeiomeio .email-signup h2.titleform {
+		margin-top: 0;
+		font-size: 18px;
+	}
+
+	#contatobannermeiomeio .form-group .input-text {
+		width: 100%;
+		padding: 8px;
+		height: auto!important;
+		box-sizing: border-box;
+	}
+	#contatobannermeiomeio .email-signup {
+		width: 100%
+	}
+
+	.btn-placeholder {
+		text-align: center;
+		max-width: 100%;
+		width: 116px;
+		height: 33px;
+		padding: 0;
+		top: 0;
+		bottom: 0;
+		margin: auto;
+		right: 2px;
+		font-weight: 600;
+	}
+	#contatobannermeiomeio .email-signup span.subtiteform {
+		font-weight: normal;
+		font-size: 16px;
+	}
+
+	.banner-mobile {
+		height: 297px;
+		background-image: url(http://telehelp.com.br/wp-content/uploads/2016/05/telehelp-sempre-voce.jpg);
+		background-repeat: no-repeat;
+		background-position: 28% 0%;
+		background-size: 1445px;
+	}
+
+	.title-bottom-form {
+		margin-top: 23px;
+		margin-bottom: 0;
+	}
+
+	#primeiralinhahome {
+	    text-align: center;
+	    display: none;
+	}
+
+	.forcefullwidth_wrapper_tp_banner {
+		display: none;
+	}
+
+	#conteudohomemeio.section.section-white.section-padded {
+		padding: 18px;
+	}
+	#conteudohomemeio div {
+		padding: 0;
+	}
+	.title-meio2 {
+		font-size: 16px;
+		text-transform: uppercase;
+	}
+	.section-info {
+		font-size: 14px;
+		margin-bottom: 20px;
+	}
+
+	.black.list-botao {
+		font-size: 14px;
+		line-height: normal;
+		width: 100%;
+	}
+
+	.conteudoproduto {
+		margin-bottom: 0
+	}
+	.black.section1-info {
+		font-size: 11px;
+	    text-transform: uppercase;
+	    text-align: center;
+	    margin: 16px 0 0 0;
+	}
+	.section.section-blue.section-padded #conteudohomemeio {
+		margin: 0;
+    	padding: 0;
+	}
+	.emergency-text.emergency-text-small {
+		margin: 9px 0 0 0;
+	}
+
+	.email-signup.epage > .subtiteform {
+		display: block!important;
+	}
+	#segundalinhahomemeio #quadroslinhadois {
+	   	background: transparent;
+	   	padding: 0!important;
+	}
+
+	#segundalinhahomemeio #quadroslinhadois h2 {
+		font-size: 15px;
+	}
+	#segundalinhahome {
+		margin-top: 0;
+	}
+	#segundalinhahomemeio #quadroslinhadois:nth-child(1) h2 {
+		font-size: 15px;
+	}
+	.section.section-video {
+		padding: 0;
+	}
+	.features_lp.container-fluid {
+		margin: 0;
+	}
+	.text-box-feat {
+		font-size: 12px;
+	}
+	.black.title-box {
+		font-size: 12px;
+	}
+	.content-box-feat {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	#terceiralinha {
+		margin: 26px 0;
+		padding: 0;
+	}
+	.landingpage input.btn-formbanelp {
+		width: 100%!important;
+		margin-bottom: 20px;
+	}
+	.title-slider-banner {
+		color: #ec1b24;
+		font-size: 18px;
+		text-align: center;
+		margin-top: 13px;
+	}
+	.text-slider-banner {
+		font-size: 14px;
+		color: #666666;
+		text-align: center;
+	}
+	.container-slider-mobile {
+		background: url(http://telehelp.com.br/wp-content/uploads/2016/05/faixa-branca.png) center 82% no-repeat , url(http://telehelp.com.br/wp-content/uploads/2016/05/fundo-carrossel.jpg) center center repeat;
+		padding: 15px;
+		background-size: auto 76%, auto;
+		padding-top: 30px;
+		text-align: center;
+		padding-bottom: 52px;
+	}
+	.slick-slider {
+		background: transparent;
+	}
+
+	.slider-mobile.slick-initialized.slick-slider button {
+		width: 50px;
+		height: 50px;
+		background-size: 30px!important;
+		top: 220px;
+	}
+
+	.title-slider-banner-produtos {
+		font-size: 15px;
+		text-transform: uppercase;
+	}
+	#sextalinhameio p {
+		font-size: 12px;
+		white-space: normal;
+		margin: 19px 0px;
+		white-space: pre-line;
+		line-height: 16px;
+	}
+	.sexta-container > div {
+		padding: 0 2px;
+	}
+	.sexta-img {
+		max-width: 100px;
+	}
+
+	#sextalinhameio h3 {
+		font-size: 15px;
+	}
+
+	.subtitle-sextalinha {
+		margin-top: 5px;
+		font-size: 14px;
+	}
+
+	#sextalinha {
+		padding: 30px 10px;
+	}
+}
