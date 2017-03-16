@@ -127,12 +127,6 @@ if( $detect->isMobile() && !$detect->isTablet() ){
       <script type='text/javascript' src="http://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
       <![endif]-->
 
-    <!-- Javascript Page Loader
-    <script type="text/javascript" src="js/pace.min.js" data-pace-options='{ "ajax": false }'></script>
-    <script type="text/javascript" src="js/page-loading.js"></script> -->
-    <script type="text/javascript" src="<?php echo get_template_directory_uri (); ?>/js/jquery-1.11.1.min.js" async></script>
-
-
 
     <?php wp_head();?>
 
